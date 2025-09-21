@@ -1,6 +1,6 @@
-# def multiplica(a,b):
+# def soma(a,b):
 
 
 
-&nbsp;	return a + b
+ 	return a + b
 
